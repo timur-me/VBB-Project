@@ -9,14 +9,14 @@
 
 ## 🌟 Description
 
-The **VBB Telegram Bot** is your go-to tool for effortless journey planning and updates. Receive real-time information
-on your trips and get notified instantly if a journey is cancelled.
+The **VBB Telegram Bot** helps in everyday journey planning and updates. Receive real-time information on your trips and get notified instantly if a journey is cancelled.
 
 ## 🔧 Usage Features
 
 - 🕒 **Next Departures**: Quickly find the next departures at nearby stops.
 - 🛤️ **Detailed Journey Info**: Access comprehensive journey details to your favorite addresses.
 - 🗺️ **Address Management**: Easily manage your address database.
+- 📍 **Geolocation Parsing**: Send geolocation point in Telegram to get stops nearby.
 
 ## 💻 Tech Features
 
@@ -70,6 +70,5 @@ on your trips and get notified instantly if a journey is cancelled.
 
 ## 📅 Future Plans
 
-- 📦 **Independent VBB Package**: Develop a standalone VBB package for integration into other apps.
-- 🛠️ **Usability Enhancements**: Improve user experience and optimize the codebase.
 - 🧹 **Code Cleanup**: Remove redundant and unnecessary code (primarily dialogs and message builders).
+- 🤖 **Improve automatisation**
