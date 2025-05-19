@@ -10,6 +10,7 @@
 ## 🌟 Description
 
 The **VBB Telegram Bot** helps in everyday journey planning and updates. Receive real-time information on your trips and get notified instantly if a journey is cancelled.
+Project works thanks to https://v6.vbb.transport.rest/ VBB API Wrapper
 
 ## 🔧 Usage Features
 
